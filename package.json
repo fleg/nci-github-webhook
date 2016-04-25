@@ -1,0 +1,28 @@
+{
+  "name": "nci-github-webhook",
+  "version": "0.0.1-alpha",
+  "description": "github webhooks for nci",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fleg/nci-github-webhook.git"
+  },
+  "keywords": [
+    "nciplugin",
+    "github",
+    "webhook",
+    "hook"
+  ],
+  "author": "Aleksey Timchenko <flegmatik.bel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fleg/nci-github-webhook/issues"
+  },
+  "homepage": "https://github.com/fleg/nci-github-webhook",
+  "peerDependencies": {
+    "nci": "0.9.x || 0.10.x"
+  }
+}
