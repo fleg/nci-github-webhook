@@ -23,6 +23,10 @@
   },
   "homepage": "https://github.com/fleg/nci-github-webhook",
   "peerDependencies": {
-    "nci": "0.9.x || 0.10.x"
+    "nci": "0.10.x",
+    "nci-express": "1.0.0"
+  },
+  "dependencies": {
+    "nci-base-webhook": "1.0.0"
   }
 }
